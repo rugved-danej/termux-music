@@ -1,0 +1,4 @@
+/termux-music
+/termux-music-*
+release/
+*.log
